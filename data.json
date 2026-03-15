@@ -12,7 +12,13 @@
     "siteBuildStatus": "Not Started",
     "notes": "Imported from SITEDROP_PROSPECT_LIST.md",
     "monthlyRevenue": 0,
-    "revenueStartDate": ""
+    "revenueStartDate": "",
+    "contactQuality": "High confidence contact path (directory/social present)",
+    "outreachPriority": "Tier 1",
+    "activityLog": [
+      "Imported from SITEDROP_PROSPECT_LIST.md on 2026-03-15",
+      "Set initial pipeline status: Lead"
+    ]
   },
   {
     "name": "George The Plumber",
@@ -27,7 +33,13 @@
     "siteBuildStatus": "Not Started",
     "notes": "Imported from SITEDROP_PROSPECT_LIST.md",
     "monthlyRevenue": 0,
-    "revenueStartDate": ""
+    "revenueStartDate": "",
+    "contactQuality": "High confidence contact path (directory/social present)",
+    "outreachPriority": "Tier 1",
+    "activityLog": [
+      "Imported from SITEDROP_PROSPECT_LIST.md on 2026-03-15",
+      "Set initial pipeline status: Lead"
+    ]
   },
   {
     "name": "The Neighborhood Plumber (Scott Findlay)",
@@ -42,7 +54,13 @@
     "siteBuildStatus": "Not Started",
     "notes": "Imported from SITEDROP_PROSPECT_LIST.md",
     "monthlyRevenue": 0,
-    "revenueStartDate": ""
+    "revenueStartDate": "",
+    "contactQuality": "High confidence contact path (directory/social present)",
+    "outreachPriority": "Tier 1",
+    "activityLog": [
+      "Imported from SITEDROP_PROSPECT_LIST.md on 2026-03-15",
+      "Set initial pipeline status: Lead"
+    ]
   },
   {
     "name": "Anastasia Plumbing Services",
@@ -57,7 +75,13 @@
     "siteBuildStatus": "Not Started",
     "notes": "Imported from SITEDROP_PROSPECT_LIST.md",
     "monthlyRevenue": 0,
-    "revenueStartDate": ""
+    "revenueStartDate": "",
+    "contactQuality": "High confidence contact path (directory/social present)",
+    "outreachPriority": "Tier 1",
+    "activityLog": [
+      "Imported from SITEDROP_PROSPECT_LIST.md on 2026-03-15",
+      "Set initial pipeline status: Lead"
+    ]
   },
   {
     "name": "Phoenix Plumbing, LLC",
@@ -72,7 +96,13 @@
     "siteBuildStatus": "Not Started",
     "notes": "Imported from SITEDROP_PROSPECT_LIST.md",
     "monthlyRevenue": 0,
-    "revenueStartDate": ""
+    "revenueStartDate": "",
+    "contactQuality": "High confidence contact path (directory/social present)",
+    "outreachPriority": "Tier 1",
+    "activityLog": [
+      "Imported from SITEDROP_PROSPECT_LIST.md on 2026-03-15",
+      "Set initial pipeline status: Lead"
+    ]
   },
   {
     "name": "Drain Doctor Plumbing & Drain Cleaning",
@@ -87,7 +117,13 @@
     "siteBuildStatus": "Not Started",
     "notes": "Imported from SITEDROP_PROSPECT_LIST.md",
     "monthlyRevenue": 0,
-    "revenueStartDate": ""
+    "revenueStartDate": "",
+    "contactQuality": "High confidence contact path (directory/social present)",
+    "outreachPriority": "Tier 1",
+    "activityLog": [
+      "Imported from SITEDROP_PROSPECT_LIST.md on 2026-03-15",
+      "Set initial pipeline status: Lead"
+    ]
   },
   {
     "name": "G.A. Landscaping",
@@ -102,7 +138,13 @@
     "siteBuildStatus": "Not Started",
     "notes": "Imported from SITEDROP_PROSPECT_LIST.md",
     "monthlyRevenue": 0,
-    "revenueStartDate": ""
+    "revenueStartDate": "",
+    "contactQuality": "High confidence contact path (directory/social present)",
+    "outreachPriority": "Tier 1",
+    "activityLog": [
+      "Imported from SITEDROP_PROSPECT_LIST.md on 2026-03-15",
+      "Set initial pipeline status: Lead"
+    ]
   },
   {
     "name": "Home Tech (HVAC/Handyman)",
@@ -117,7 +159,13 @@
     "siteBuildStatus": "Not Started",
     "notes": "Imported from SITEDROP_PROSPECT_LIST.md",
     "monthlyRevenue": 0,
-    "revenueStartDate": ""
+    "revenueStartDate": "",
+    "contactQuality": "High confidence contact path (directory/social present)",
+    "outreachPriority": "Tier 1",
+    "activityLog": [
+      "Imported from SITEDROP_PROSPECT_LIST.md on 2026-03-15",
+      "Set initial pipeline status: Lead"
+    ]
   },
   {
     "name": "SP Heating & Air",
@@ -132,7 +180,13 @@
     "siteBuildStatus": "Not Started",
     "notes": "Imported from SITEDROP_PROSPECT_LIST.md",
     "monthlyRevenue": 0,
-    "revenueStartDate": ""
+    "revenueStartDate": "",
+    "contactQuality": "Low confidence (manual verification required)",
+    "outreachPriority": "Tier 3",
+    "activityLog": [
+      "Imported from SITEDROP_PROSPECT_LIST.md on 2026-03-15",
+      "Set initial pipeline status: Lead"
+    ]
   },
   {
     "name": "Shark Plumbing LLC",
@@ -147,7 +201,13 @@
     "siteBuildStatus": "Not Started",
     "notes": "Imported from SITEDROP_PROSPECT_LIST.md",
     "monthlyRevenue": 0,
-    "revenueStartDate": ""
+    "revenueStartDate": "",
+    "contactQuality": "Low confidence (manual verification required)",
+    "outreachPriority": "Tier 3",
+    "activityLog": [
+      "Imported from SITEDROP_PROSPECT_LIST.md on 2026-03-15",
+      "Set initial pipeline status: Lead"
+    ]
   },
   {
     "name": "Additional Home Solutions",
@@ -162,7 +222,13 @@
     "siteBuildStatus": "Not Started",
     "notes": "Imported from SITEDROP_PROSPECT_LIST.md",
     "monthlyRevenue": 0,
-    "revenueStartDate": ""
+    "revenueStartDate": "",
+    "contactQuality": "Medium confidence (existing web presence needs upgrade)",
+    "outreachPriority": "Tier 2",
+    "activityLog": [
+      "Imported from SITEDROP_PROSPECT_LIST.md on 2026-03-15",
+      "Set initial pipeline status: Lead"
+    ]
   },
   {
     "name": "Cumming Roofing Company",
@@ -177,7 +243,13 @@
     "siteBuildStatus": "Not Started",
     "notes": "Imported from SITEDROP_PROSPECT_LIST.md",
     "monthlyRevenue": 0,
-    "revenueStartDate": ""
+    "revenueStartDate": "",
+    "contactQuality": "Low confidence (manual verification required)",
+    "outreachPriority": "Tier 3",
+    "activityLog": [
+      "Imported from SITEDROP_PROSPECT_LIST.md on 2026-03-15",
+      "Set initial pipeline status: Lead"
+    ]
   },
   {
     "name": "Tom and Jerry's Roofing",
@@ -192,7 +264,13 @@
     "siteBuildStatus": "Not Started",
     "notes": "Imported from SITEDROP_PROSPECT_LIST.md",
     "monthlyRevenue": 0,
-    "revenueStartDate": ""
+    "revenueStartDate": "",
+    "contactQuality": "Low confidence (manual verification required)",
+    "outreachPriority": "Tier 3",
+    "activityLog": [
+      "Imported from SITEDROP_PROSPECT_LIST.md on 2026-03-15",
+      "Set initial pipeline status: Lead"
+    ]
   },
   {
     "name": "R Tillery Heating & Air",
@@ -207,7 +285,13 @@
     "siteBuildStatus": "Not Started",
     "notes": "Imported from SITEDROP_PROSPECT_LIST.md",
     "monthlyRevenue": 0,
-    "revenueStartDate": ""
+    "revenueStartDate": "",
+    "contactQuality": "Low confidence (manual verification required)",
+    "outreachPriority": "Tier 3",
+    "activityLog": [
+      "Imported from SITEDROP_PROSPECT_LIST.md on 2026-03-15",
+      "Set initial pipeline status: Lead"
+    ]
   },
   {
     "name": "Hometown Heating & Air",
@@ -222,7 +306,13 @@
     "siteBuildStatus": "Not Started",
     "notes": "Imported from SITEDROP_PROSPECT_LIST.md",
     "monthlyRevenue": 0,
-    "revenueStartDate": ""
+    "revenueStartDate": "",
+    "contactQuality": "Low confidence (manual verification required)",
+    "outreachPriority": "Tier 3",
+    "activityLog": [
+      "Imported from SITEDROP_PROSPECT_LIST.md on 2026-03-15",
+      "Set initial pipeline status: Lead"
+    ]
   },
   {
     "name": "Alpha Lan Medical Spa",
@@ -237,7 +327,13 @@
     "siteBuildStatus": "Not Started",
     "notes": "Imported from SITEDROP_PROSPECT_LIST.md",
     "monthlyRevenue": 0,
-    "revenueStartDate": ""
+    "revenueStartDate": "",
+    "contactQuality": "Medium confidence (existing web presence needs upgrade)",
+    "outreachPriority": "Tier 2",
+    "activityLog": [
+      "Imported from SITEDROP_PROSPECT_LIST.md on 2026-03-15",
+      "Set initial pipeline status: Lead"
+    ]
   },
   {
     "name": "SAHA Med Spa",
@@ -252,7 +348,13 @@
     "siteBuildStatus": "Not Started",
     "notes": "Imported from SITEDROP_PROSPECT_LIST.md",
     "monthlyRevenue": 0,
-    "revenueStartDate": ""
+    "revenueStartDate": "",
+    "contactQuality": "Medium confidence",
+    "outreachPriority": "Tier 2",
+    "activityLog": [
+      "Imported from SITEDROP_PROSPECT_LIST.md on 2026-03-15",
+      "Set initial pipeline status: Lead"
+    ]
   },
   {
     "name": "Baltic Deli (also serves as caf\u00e9/restaurant)",
@@ -267,7 +369,13 @@
     "siteBuildStatus": "Not Started",
     "notes": "Imported from SITEDROP_PROSPECT_LIST.md",
     "monthlyRevenue": 0,
-    "revenueStartDate": ""
+    "revenueStartDate": "",
+    "contactQuality": "High confidence contact path (directory/social present)",
+    "outreachPriority": "Tier 1",
+    "activityLog": [
+      "Imported from SITEDROP_PROSPECT_LIST.md on 2026-03-15",
+      "Set initial pipeline status: Lead"
+    ]
   },
   {
     "name": "Minstons Jamaican Deli",
@@ -282,7 +390,13 @@
     "siteBuildStatus": "Not Started",
     "notes": "Imported from SITEDROP_PROSPECT_LIST.md",
     "monthlyRevenue": 0,
-    "revenueStartDate": ""
+    "revenueStartDate": "",
+    "contactQuality": "Low confidence (manual verification required)",
+    "outreachPriority": "Tier 3",
+    "activityLog": [
+      "Imported from SITEDROP_PROSPECT_LIST.md on 2026-03-15",
+      "Set initial pipeline status: Lead"
+    ]
   },
   {
     "name": "Fry Me 2 The Moon",
@@ -297,7 +411,13 @@
     "siteBuildStatus": "Not Started",
     "notes": "Imported from SITEDROP_PROSPECT_LIST.md",
     "monthlyRevenue": 0,
-    "revenueStartDate": ""
+    "revenueStartDate": "",
+    "contactQuality": "Low confidence (manual verification required)",
+    "outreachPriority": "Tier 3",
+    "activityLog": [
+      "Imported from SITEDROP_PROSPECT_LIST.md on 2026-03-15",
+      "Set initial pipeline status: Lead"
+    ]
   },
   {
     "name": "Fresco Cantina Grille",
@@ -312,7 +432,13 @@
     "siteBuildStatus": "Not Started",
     "notes": "Imported from SITEDROP_PROSPECT_LIST.md",
     "monthlyRevenue": 0,
-    "revenueStartDate": ""
+    "revenueStartDate": "",
+    "contactQuality": "Low confidence (manual verification required)",
+    "outreachPriority": "Tier 3",
+    "activityLog": [
+      "Imported from SITEDROP_PROSPECT_LIST.md on 2026-03-15",
+      "Set initial pipeline status: Lead"
+    ]
   },
   {
     "name": "Bey Mediterranean",
@@ -327,7 +453,13 @@
     "siteBuildStatus": "Not Started",
     "notes": "Imported from SITEDROP_PROSPECT_LIST.md",
     "monthlyRevenue": 0,
-    "revenueStartDate": ""
+    "revenueStartDate": "",
+    "contactQuality": "Medium confidence",
+    "outreachPriority": "Tier 2",
+    "activityLog": [
+      "Imported from SITEDROP_PROSPECT_LIST.md on 2026-03-15",
+      "Set initial pipeline status: Lead"
+    ]
   },
   {
     "name": "Loyal Q and Brew",
@@ -342,7 +474,13 @@
     "siteBuildStatus": "Not Started",
     "notes": "Imported from SITEDROP_PROSPECT_LIST.md",
     "monthlyRevenue": 0,
-    "revenueStartDate": ""
+    "revenueStartDate": "",
+    "contactQuality": "Low confidence (manual verification required)",
+    "outreachPriority": "Tier 3",
+    "activityLog": [
+      "Imported from SITEDROP_PROSPECT_LIST.md on 2026-03-15",
+      "Set initial pipeline status: Lead"
+    ]
   },
   {
     "name": "Old Milton Dental (Dr. Corey Mazer)",
@@ -357,7 +495,13 @@
     "siteBuildStatus": "Not Started",
     "notes": "Imported from SITEDROP_PROSPECT_LIST.md",
     "monthlyRevenue": 0,
-    "revenueStartDate": ""
+    "revenueStartDate": "",
+    "contactQuality": "Low confidence (manual verification required)",
+    "outreachPriority": "Tier 3",
+    "activityLog": [
+      "Imported from SITEDROP_PROSPECT_LIST.md on 2026-03-15",
+      "Set initial pipeline status: Lead"
+    ]
   },
   {
     "name": "Polish Dental Center",
@@ -372,7 +516,13 @@
     "siteBuildStatus": "Not Started",
     "notes": "Imported from SITEDROP_PROSPECT_LIST.md",
     "monthlyRevenue": 0,
-    "revenueStartDate": ""
+    "revenueStartDate": "",
+    "contactQuality": "Low confidence (manual verification required)",
+    "outreachPriority": "Tier 3",
+    "activityLog": [
+      "Imported from SITEDROP_PROSPECT_LIST.md on 2026-03-15",
+      "Set initial pipeline status: Lead"
+    ]
   },
   {
     "name": "R. Lee Pennington, CPA, LLC",
@@ -387,7 +537,13 @@
     "siteBuildStatus": "Not Started",
     "notes": "Imported from SITEDROP_PROSPECT_LIST.md",
     "monthlyRevenue": 0,
-    "revenueStartDate": ""
+    "revenueStartDate": "",
+    "contactQuality": "Medium confidence",
+    "outreachPriority": "Tier 2",
+    "activityLog": [
+      "Imported from SITEDROP_PROSPECT_LIST.md on 2026-03-15",
+      "Set initial pipeline status: Lead"
+    ]
   },
   {
     "name": "Pro-Fi 20/20 (Dental CPAs)",
@@ -402,7 +558,13 @@
     "siteBuildStatus": "Not Started",
     "notes": "Imported from SITEDROP_PROSPECT_LIST.md",
     "monthlyRevenue": 0,
-    "revenueStartDate": ""
+    "revenueStartDate": "",
+    "contactQuality": "Medium confidence",
+    "outreachPriority": "Tier 2",
+    "activityLog": [
+      "Imported from SITEDROP_PROSPECT_LIST.md on 2026-03-15",
+      "Set initial pipeline status: Lead"
+    ]
   },
   {
     "name": "ITS by Jay (Residential Electrician)",
@@ -417,7 +579,13 @@
     "siteBuildStatus": "Not Started",
     "notes": "Imported from SITEDROP_PROSPECT_LIST.md",
     "monthlyRevenue": 0,
-    "revenueStartDate": ""
+    "revenueStartDate": "",
+    "contactQuality": "Medium confidence (existing web presence needs upgrade)",
+    "outreachPriority": "Tier 2",
+    "activityLog": [
+      "Imported from SITEDROP_PROSPECT_LIST.md on 2026-03-15",
+      "Set initial pipeline status: Lead"
+    ]
   },
   {
     "name": "Crafty Canuck Handyman LLC",
@@ -432,7 +600,13 @@
     "siteBuildStatus": "Not Started",
     "notes": "Imported from SITEDROP_PROSPECT_LIST.md",
     "monthlyRevenue": 0,
-    "revenueStartDate": ""
+    "revenueStartDate": "",
+    "contactQuality": "Medium confidence",
+    "outreachPriority": "Tier 2",
+    "activityLog": [
+      "Imported from SITEDROP_PROSPECT_LIST.md on 2026-03-15",
+      "Set initial pipeline status: Lead"
+    ]
   },
   {
     "name": "JB Pro Handyman",
@@ -447,6 +621,12 @@
     "siteBuildStatus": "Not Started",
     "notes": "Imported from SITEDROP_PROSPECT_LIST.md",
     "monthlyRevenue": 0,
-    "revenueStartDate": ""
+    "revenueStartDate": "",
+    "contactQuality": "Medium confidence (existing web presence needs upgrade)",
+    "outreachPriority": "Tier 2",
+    "activityLog": [
+      "Imported from SITEDROP_PROSPECT_LIST.md on 2026-03-15",
+      "Set initial pipeline status: Lead"
+    ]
   }
 ]
